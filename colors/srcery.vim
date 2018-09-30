@@ -20,7 +20,7 @@ endif
 
 " Palette {{{
 
-let s:black          = ['#1C1B19', 0]
+let s:black          = ['#000000', 0]
 let s:red            = ['#EF2F27', 1]
 let s:green          = ['#519F50', 2]
 let s:yellow         = ['#FBB829', 3]
